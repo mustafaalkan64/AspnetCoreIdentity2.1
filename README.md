@@ -17,9 +17,9 @@ With Asp.net Core 2.1 Identity Management
 
 Firstly you shold run below commands in terminal in your project directory to auto migrate your Identity tables:
 
- # dotnet ef migrations add InitialCreate
+ **dotnet ef migrations add InitialCreate**
  
- # dotnet ef database update
+ **dotnet ef database update**
 
 
 
