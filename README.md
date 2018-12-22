@@ -12,7 +12,7 @@ Login, register and logout.
 
 Authanticate and authorize 
 
-With Asp.net Core 2.1 Identity Management
+With Asp.net Core 2.1 Identity Management.
 
 
 
